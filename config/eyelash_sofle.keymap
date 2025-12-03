@@ -149,7 +149,6 @@
 &kp C_MUTE  &mt F5 LA(LEFT)  &kp LALT     &kp DELETE   &kp BACKSPACE   &lt 4 SPACE    &kp ENTER        &se LSHFT ENTER  &mo 1      &kp LCTRL     &kp RALT    &kp LS(LG(LEFT))
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
             display-name = "LAYER0";
         };
 
