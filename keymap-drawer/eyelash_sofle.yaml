@@ -64,7 +64,7 @@ layers:
   - {t: /, s: '?'}
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - LGUI
-  - {t: '=', s: +}
+  - {t: '-', s: _}
   layer1:
   - F12
   - F1
